@@ -7,4 +7,6 @@ A simple menu based program that modifies a graph parameters.
 * Calculate the shortest path,
 * Etc.
 
+## Working example:
+
 ![alt text](https://github.com/andrei-voia/dynamic_graph_management/blob/master/example.png "working ex")
