@@ -1,6 +1,6 @@
 # Dynamic Graph Management
 
-A simple menu based program that modifies a graph parameters
+A simple menu based program that modifies a graph parameters.
 * Inserting nodes and edges,
 * Etc.
 
